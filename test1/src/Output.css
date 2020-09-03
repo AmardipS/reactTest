@@ -1,0 +1,11 @@
+.output{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+   
+    background: rgb(179, 179, 190);
+    box-shadow: 0 2px 3px rgb(59, 59, 70);
+    text-align: center;
+    padding: 6px;
+}
